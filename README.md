@@ -7,7 +7,7 @@
 
 I am an Aerospace Engineer transitioning into **AI Architecture and MLOps**, currently pursuing a Master's in AI, Big Data, and Cloud Computing at EDEM. My background in dynamic systems, numerical methods, and Monte Carlo simulations (honed at Faraday Rocketry UPV) has shaped my approach to data.
 
-I am specializing in designing end-to-end architectures (Cloud, Big Data, GenAI) for high-performance and dynamic risk sectors like Sportech, BioTech, and Aerospace.
+I am specializing in designing end-to-end architectures (Cloud, Big Data, GenAI) for high-performance and dynamic risk sectors.
 
 ---
 
